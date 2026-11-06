@@ -1,0 +1,11 @@
+build/bin
+node_modules
+frontend/dist
+frontend/node_modules
+
+# Personal data / state
+*.log
+state.json
+installed.json
+sudo.pass
+.env
