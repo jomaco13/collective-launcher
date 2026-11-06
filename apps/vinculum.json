@@ -6,7 +6,7 @@
   "service": "vinculum.service",
   "dashboard": "http://127.0.0.1:8080",
   "ou": "Collective Linux",
-  "github_owner": "YOUR_GITHUB_USER",
+  "github_owner": "jomaco13",
   "github_repo": "Vinculum_DriveGo",
   "asset_pattern": "linux"
 }
